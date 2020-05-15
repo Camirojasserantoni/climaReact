@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Camirojasserantoni/climaReact/static/css/main.3751ae63.chunk.css",
+    "main.js": "/Camirojasserantoni/climaReact/static/js/main.8b0adf34.chunk.js",
+    "main.js.map": "/Camirojasserantoni/climaReact/static/js/main.8b0adf34.chunk.js.map",
+    "runtime-main.js": "/Camirojasserantoni/climaReact/static/js/runtime-main.7520750e.js",
+    "runtime-main.js.map": "/Camirojasserantoni/climaReact/static/js/runtime-main.7520750e.js.map",
+    "static/js/2.e908e84a.chunk.js": "/Camirojasserantoni/climaReact/static/js/2.e908e84a.chunk.js",
+    "static/js/2.e908e84a.chunk.js.map": "/Camirojasserantoni/climaReact/static/js/2.e908e84a.chunk.js.map",
+    "index.html": "/Camirojasserantoni/climaReact/index.html",
+    "precache-manifest.ef2dcfbeccc5b6f55f76fe0bf05a566d.js": "/Camirojasserantoni/climaReact/precache-manifest.ef2dcfbeccc5b6f55f76fe0bf05a566d.js",
+    "service-worker.js": "/Camirojasserantoni/climaReact/service-worker.js",
+    "static/css/main.3751ae63.chunk.css.map": "/Camirojasserantoni/climaReact/static/css/main.3751ae63.chunk.css.map",
+    "static/js/2.e908e84a.chunk.js.LICENSE.txt": "/Camirojasserantoni/climaReact/static/js/2.e908e84a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7520750e.js",
+    "static/js/2.e908e84a.chunk.js",
+    "static/css/main.3751ae63.chunk.css",
+    "static/js/main.8b0adf34.chunk.js"
+  ]
+}
